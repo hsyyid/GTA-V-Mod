@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gta",
+  "name": "GTA V Mod",
+  "description": "GTA V mod: Experience GTA V in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://negafinity.com",
+  "updateUrl": "",
+  "authorList": ["HassanS6000"],
+  "credits": "The Minecraft Community",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
